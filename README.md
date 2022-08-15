@@ -5,4 +5,4 @@ This program tracks buses on the MBTA #1 route in Boston, MA in real time. Bus #
 
 <img src="bus tracker.png">
 
-I plan to build upon this model to make more real-time tracking web apps for public transit in Portland, OR and other entities for which I can access real-time location data. 
+This model can be built upon to make more real-time tracking web apps for public transit in Portland, OR and other entities for which I can access real-time location data through an API.
