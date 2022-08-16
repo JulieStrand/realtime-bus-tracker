@@ -7,9 +7,11 @@ This program tracks buses on the MBTA #1 route in Boston, MA in real time. Bus #
 
 This model can be built upon to make more real-time tracking web apps for public transit in Portland, OR and other entities for which I can access real-time location data through an API.
 
-To use the application: the map is populated and updated automatically upon loading. ''MIT License
+To use the application: the map is populated and updated automatically upon loading. 
 
 ---
+MIT License
+
 Copyright (c) 2022 Julie Strand
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
